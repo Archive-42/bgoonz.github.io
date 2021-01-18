@@ -16,11 +16,29 @@
     <noscript
       ><link rel="stylesheet" href="assets/css/noscript.css"
     /></noscript>
+    <style>
+      .image-cropper {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
+     .profile-img {
+     
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+
+     } 
+    </style>
   </head>
   <body class="is-preload">
     <!-- Sidebar -->
     <section id="sidebar">
       <div class="inner">
+        <img src="./assets/images/profile-image.jpg" alt="profile-pic" class="profile-img image-cropper">
         <nav>
           <ul>
             <li><a href="#intro">Home</a></li>
@@ -76,6 +94,7 @@
           /></a>
           <div class="content">
             <div class="inner">
+              
               <h2>Web Dev Resource Hub<i style="color: gold" class="far fa-star"></i></h2>
               <h3>My personal Web Development blog and resource sharing site </h3>
               <p></p>
