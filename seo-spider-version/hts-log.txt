@@ -1,0 +1,45 @@
+HTTrack3.49-2 launched on Wed, 03 Feb 2021 00:35:53 at https://tender-bartik-074feb.netlify.app/
+(httrack -%e2 https://tender-bartik-074feb.netlify.app/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:38:23	Error: 	Exit requested by shell or user
+00:38:25	Warning: 	File not added due to mirror cancel: https://github.com/sponsors
+00:38:25	Warning: 	File not added due to mirror cancel: https://github.com/sponsors
+00:38:25	Warning: 	File not added due to mirror cancel: https://github.com/sponsors
+00:38:26	Warning: 	File not added due to mirror cancel: https://github.com/sponsors
+00:38:27	Warning: 	File not added due to mirror cancel: https://www.instagram.com/robots.txt
+00:38:27	Warning: 	Found for https://www.instagram.com/bgoonz/
+00:38:27	Warning: 	File has moved from https://www.instagram.com/bgoonz/ to https://www.instagram.com/accounts/login/
+00:38:28	Warning: 	File not added due to mirror cancel: https://www.linkedin.com/robots.txt
+00:38:28	Error: 	"Request denied" (999) at link https://www.linkedin.com/in/bryan-guner-046199128/ (from https://tender-bartik-074feb.netlify.app/)
+00:38:29	Warning: 	File not added due to mirror cancel: https://goofy-euclid-1cd736.netlify.app/robots.txt
+00:38:30	Warning: 	File not added due to mirror cancel: https://eloquent-sammet-ba1810.netlify.app/robots.txt
+00:38:31	Warning: 	File not added due to mirror cancel: https://gracious-raman-474030.netlify.app/robots.txt
+00:38:31	Warning: 	File not added due to mirror cancel: https://onedrive.live.com/robots.txt
+00:38:34	Warning: 	File not added due to mirror cancel: https://office.com/robots.txt
+00:38:34	Warning: 	Moved Permanently for https://office.com/
+00:38:34	Warning: 	Redirected link is identical because of 'URL Hack' option: https://office.com/ and https://www.office.com/
+00:38:34	Warning: 	File has moved from https://office.com/ to https://www.office.com/
+00:38:34	Warning: 	Moved Permanently for https://office.com/?ms.officeurl=webapps
+00:38:34	Warning: 	Redirected link is identical because of 'URL Hack' option: https://office.com/?ms.officeurl=webapps and https://www.office.com/?ms.officeurl=webapps
+00:38:34	Warning: 	File has moved from https://office.com/?ms.officeurl=webapps to https://www.office.com/?ms.officeurl=webapps
+00:38:36	Warning: 	File not added due to mirror cancel: https://www.youtube.com/robots.txt
+00:38:38	Warning: 	File not added due to mirror cancel: https://docs.google.com/robots.txt
+00:39:58	Warning: 	File not added due to mirror cancel: https://github.githubassets.com/robots.txt
+00:39:59	Warning: 	File not added due to mirror cancel: https://avatars.githubusercontent.com/robots.txt
+00:39:59	Warning: 	Found for https://avatars.githubusercontent.com/
+00:39:59	Warning: 	File has moved from https://avatars.githubusercontent.com/ to https://github.com
+00:39:59	Warning: 	File not added due to mirror cancel: https://github-cloud.s3.amazonaws.com/robots.txt
+00:40:00	Error: 	"Forbidden" (403) at link https://github-cloud.s3.amazonaws.com/ (from https://github.com/bgoonz)
+00:40:00	Warning: 	File not added due to mirror cancel: https://user-images.githubusercontent.com/robots.txt
+00:40:01	Error: 	"Forbidden" (403) at link https://user-images.githubusercontent.com/ (from https://github.com/bgoonz)
+00:40:32	Warning: 	File not added due to mirror cancel: https://github.com/features/project-management/
+00:40:32	Error: 	"mirror stopped by user" (-1) at link https://github.com/features/project-management/ (from https://github.com/bgoonz)
+00:40:36	Error: 	"mirror stopped by user" (-1) at link https://github.com/sponsors (from https://github.com/bgoonz)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 43 seconds : 83 links scanned, 59 files written (8663944 bytes overall) [2933424 bytes received at 10365 bytes/sec], 7041537 bytes transferred using HTTP compression in 44 files, ratio 17%, 1.5 requests per connection
+(6 errors, 28 warnings, 0 messages)
