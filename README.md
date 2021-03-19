@@ -1,6 +1,6 @@
 [https://bgoonz.github.io/](https://bgoonz.github.io/)
 
-
+[![time tracker](https://wakatime.com/badge/github/bgoonz/bgoonz.github.io.svg)](https://wakatime.com/badge/github/bgoonz/bgoonz.github.io)
 
 ```
 \___________________________________________________
